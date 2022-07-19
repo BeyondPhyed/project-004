@@ -1,7 +1,7 @@
 let mic;
 
 function setup() {
-  createCanvas(710, 200);
+  createCanvas(710, 500);
 
   // 오디오 입력 생성하기
   mic = new p5.AudioIn();
